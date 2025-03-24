@@ -19,6 +19,7 @@ public class Course {
     }
 
     public String getName() {
+        System.out.println("Hello");
         return name;
     }
 
